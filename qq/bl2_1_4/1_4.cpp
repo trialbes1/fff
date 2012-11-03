@@ -10,6 +10,7 @@
 #include <iostream>
 #include <math.h>
 #include <conio.h>
+#include <3343>
 
 using namespace std;
 int gcd (int a,int b)
