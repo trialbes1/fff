@@ -1,8 +1,9 @@
 ﻿/* 
  * File:   1_4.cpp
  * Author: Home
- *
+ *ываываываываыва
  * Created on 27 Октябрь 2012 г., 19:25
+ваываыв
  */
 
 #include <cstdlib>
