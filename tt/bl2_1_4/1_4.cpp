@@ -15,7 +15,7 @@ int gcd (int a,int b)
     if (!a) return b;
     else return gcd(b%a,a);
 }
-/*123
+/*123//fjhjk
 
  */
 int main() 
